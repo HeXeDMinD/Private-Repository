@@ -32,7 +32,7 @@ Enzyme
 chenyao1992
 chipper308
 WalkingHell
-ChriSetzer
+ChrisSetzer
 Xalyx
 pyryoer
 quixor329
