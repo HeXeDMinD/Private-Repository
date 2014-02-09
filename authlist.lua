@@ -34,7 +34,7 @@ MrChadGFX
 Enzyme
 chenyao1992
 chipper308
-WalkingHell
+Walking Hell
 ChrisSetzer
 Xalyx
 pyryoer
