@@ -1,4 +1,6 @@
 xzz
+zderekzz
+kazie
 canthandleme
 Frosttfire
 thegunster
